@@ -1,0 +1,71 @@
+@font-face {
+  font-family: 'Neue Hans Kendrick';
+  font-style: normal;
+  font-weight: lighter;
+  src: url(neuehanskendrick-extralight.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Neue Hans Kendrick';
+  font-style: normal;
+  font-weight: 200;
+  src: url(neuehanskendrick-light.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Neue Hans Kendrick';
+  font-style: normal;
+  font-weight: 400;
+  src: url(neuehanskendrick-regular.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Neue Hans Kendrick';
+  font-style: normal;
+  font-weight: bold;
+  src: url(neuehanskendrick-bold.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Neue Hans Kendrick';
+  font-style: normal;
+  font-weight: bolder;
+  src: url(neuehanskendrick-extrabold.woff) format('woff');
+}
+
+/* Intalic */
+
+@font-face {
+  font-family: 'Neue Hans Kendrick';
+  font-style: italic;
+  font-weight: lighter;
+  src: url(neuehanskendrick-extralightitalic.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Neue Hans Kendrick';
+  font-style: italic;
+  font-weight: 200;
+  src: url(neuehanskendrick-lightitalic.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Neue Hans Kendrick';
+  font-style: italic;
+  font-weight: 400;
+  src: url(neuehanskendrick-regularitalic.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Neue Hans Kendrick';
+  font-style: italic;
+  font-weight: bold;
+  src: url(neuehanskendrick-bolditalic.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Neue Hans Kendrick';
+  font-style: italic;
+  font-weight: bolder;
+  src: url(neuehanskendrick-extrabolditalic.woff) format('woff');
+}

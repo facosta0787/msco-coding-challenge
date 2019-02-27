@@ -1,0 +1,21 @@
+.hero {
+  margin: 42px 0 0 0;
+}
+.hero > h1 {
+  margin: 0;
+  padding: 0;
+  color: #1d1fdd;
+  font-size: 120px;
+  font-weight: 800;
+  letter-spacing: -5px;
+}
+
+.hero > p {
+  margin: 13px 0 0 0;
+  display: inline-block;
+  width: 586px;
+  color: #565656;
+  line-height: 1.71;
+  font-size: 14px;
+  font-weight: 200;
+}

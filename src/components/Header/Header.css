@@ -1,0 +1,31 @@
+.header {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo-container {
+  display: inline-block;
+  width: 120px;
+  height: 40px;
+}
+
+.logo {
+  width: 120px;
+  height: 40px;
+  background-size: contain;
+  background: url(/img/matter-logo-alt-light.svg) no-repeat center center;
+}
+
+.login-controls {
+  display: inline-block;
+}
+
+.login-controls-text {
+  font-size: 18px;
+  display: inline-block;
+  color: #666666;
+  padding-top: 3px;
+  padding-bottom: 5px;
+  border-bottom: 5px solid #1d1fdd
+}
