@@ -1,0 +1,46 @@
+.list-container {
+  box-sizing: border-box;
+  width: 46%;
+}
+
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.list-item {
+  border-bottom: solid 0.5px #d8d8d8;
+}
+
+.post-item-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 0;
+}
+
+.post-item-container > a,
+.post-container > a:visited {
+  margin-top: 16px;
+  text-decoration: none;
+  color: #1d1fdd;
+}
+
+.post-item-info > h3 {
+  margin: 0;
+  padding: 0;
+  font-size: 24px;
+}
+
+.post-item-date {
+  font-size: 10px;
+  font-weight: 300;
+}
+
+.post-item-date > span {
+  color: #1d1fdd;
+}
+
+.post-item-link {
+  font-size: 24px;
+}

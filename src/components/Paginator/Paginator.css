@@ -1,0 +1,22 @@
+.paginator {
+  display: flex;
+  justify-content: center;
+  margin: 35px 0 100px 0;
+}
+
+.arrow {
+  color: #1d1fdd;
+  font-size: 36px;
+}
+
+.arrow-left {
+  margin-right: 15px;
+}
+
+.arrow-right {
+  margin-left: 15px;
+}
+
+.disabled-link {
+  pointer-events: none;
+}
